@@ -9,7 +9,7 @@ Collection of my python turtle graphic scripts.
 **Turtle Race**: Animated race with multiple turtle instances  
 **Sketch pad**: A simple interactive drawing application
 
-Controls for sketch pad
+Controls for sketch pad  
    'w': Move forward  
    'z': Move backward  
    'a': Turn right  
