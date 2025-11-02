@@ -1,7 +1,7 @@
-# turtle-python-projects
+## turtle-python-projects
 Collection of my python turtle graphic scripts.
 
-## Projects include
+### Projects include
 
 **Ghana flag**: Draws the flag of ghana with accurate colors and star  
 **Hirst Spot Paint**: Creates a Damien Hirst-Inspired spot painting  
@@ -19,7 +19,7 @@ Controls for sketch pad
    'd': Pen down
 
 
-##Requirements
+###Requirements
 
 -Python 3.x
 -Python turtle module (built-in)
